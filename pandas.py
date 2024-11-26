@@ -9,7 +9,7 @@ import seaborn as sns
 # Step 1: Data Loading
 # Load the dataset (example: a CSV file)
 # Replace 'your_data.csv' with your actual dataset file path
-file_path = 'C:\Users\LENOVO\Downloads\python\MathE dataset (4).csv'  # Replace with your data file path
+file_path = 'MathE dataset (4).csv'  # Replace with your data file path
 data = pd.read_csv(file_path)
 
 # Step 2: Data Exploration
